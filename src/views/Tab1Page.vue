@@ -2,7 +2,7 @@
   <ion-page>
     <ion-header>
       <ion-toolbar>
-        <ion-title>Mario Rodriguez</ion-title>
+        <ion-title>Peliculas </ion-title>
       </ion-toolbar>
     </ion-header>
     <ion-content :fullscreen="true">
